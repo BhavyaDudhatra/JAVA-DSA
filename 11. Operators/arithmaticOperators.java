@@ -1,4 +1,4 @@
-public class operators {
+public class arithmaticOperators {
     public static void main(String[] args) {
         int a=8, b=3;
         System.out.println("A / B = " + (a/b));
