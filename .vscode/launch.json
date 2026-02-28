@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "numberPyramid",
+            "request": "launch",
+            "mainClass": "numberPyramid",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "pyramid",
             "request": "launch",
             "mainClass": "pyramid",
