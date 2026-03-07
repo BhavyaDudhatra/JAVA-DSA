@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "16. Pattern (Part II) - Advanced",
         "15. Function and Methods",
         "14. Patterns (Part I)",
         "13. Loops",
         "12. Conditional Statements",
         "11. Operators",
         "10. Variables and Data Types",
-        "16. Pattern (Part II) - Advanced"
+        "17. Array (Part I)"
     ]
 }
