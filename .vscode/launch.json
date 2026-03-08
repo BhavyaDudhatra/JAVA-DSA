@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arrFuncArg",
+            "request": "launch",
+            "mainClass": "arrFuncArg",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "array",
             "request": "launch",
             "mainClass": "array",
