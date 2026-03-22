@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maxSubarrayPrefix",
+            "request": "launch",
+            "mainClass": "maxSubarrayPrefix",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarrayPrefix",
+            "request": "launch",
+            "mainClass": "MaxSubarrayPrefix",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "maxSumBrutForce",
             "request": "launch",
             "mainClass": "maxSumBrutForce",
