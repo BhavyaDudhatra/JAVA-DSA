@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maxSubarrayKadane",
+            "request": "launch",
+            "mainClass": "maxSubarrayKadane",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "maxSubarrayPrefix",
             "request": "launch",
             "mainClass": "maxSubarrayPrefix",
