@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "18. Array (Part II)",
         "17. Array (Part I)",
         "16. Pattern (Part II) - Advanced",
         "15. Function and Methods",
@@ -8,6 +9,6 @@
         "12. Conditional Statements",
         "11. Operators",
         "10. Variables and Data Types",
-        "18. Array (Part II)"
+        "19. Basic Sorting Algorithms"
     ]
 }
