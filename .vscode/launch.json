@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuySellStock",
+            "request": "launch",
+            "mainClass": "BuySellStock",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "TrappingRainWater",
             "request": "launch",
             "mainClass": "TrappingRainWater",
