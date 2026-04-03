@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountingSort",
+            "request": "launch",
+            "mainClass": "CountingSort",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "inBuiltSort",
             "request": "launch",
             "mainClass": "inBuiltSort",
