@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiagonalSum",
+            "request": "launch",
+            "mainClass": "DiagonalSum",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "SpiralMatrix",
             "request": "launch",
             "mainClass": "SpiralMatrix",
