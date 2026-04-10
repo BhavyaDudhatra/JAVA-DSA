@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchSortedMatrix",
+            "request": "launch",
+            "mainClass": "SearchSortedMatrix",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "DiagonalSum",
             "request": "launch",
             "mainClass": "DiagonalSum",
