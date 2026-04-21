@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestString",
+            "request": "launch",
+            "mainClass": "LargestString",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
+            "name": "LargestStringExample",
+            "request": "launch",
+            "mainClass": "LargestStringExample",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "SubstringExample",
             "request": "launch",
             "mainClass": "SubstringExample",
