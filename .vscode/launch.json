@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UppercaseConverter",
+            "request": "launch",
+            "mainClass": "UppercaseConverter",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "StringBuilderExample",
             "request": "launch",
             "mainClass": "StringBuilderExample",
