@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "21. Strings",
         "20. 2D Array",
         "19. Basic Sorting Algorithms",
         "18. Array (Part II)",
@@ -11,6 +12,6 @@
         "12. Conditional Statements",
         "11. Operators",
         "10. Variables and Data Types",
-        "21. Strings"
+        "22. Bit Manipulation"
     ]
 }

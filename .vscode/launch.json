@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binaryAnd",
+            "request": "launch",
+            "mainClass": "binaryAnd",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "StringCompression",
             "request": "launch",
             "mainClass": "StringCompression",
