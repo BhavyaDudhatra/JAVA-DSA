@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binaryOr",
+            "request": "launch",
+            "mainClass": "binaryOr",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "binaryAnd",
             "request": "launch",
             "mainClass": "binaryAnd",
