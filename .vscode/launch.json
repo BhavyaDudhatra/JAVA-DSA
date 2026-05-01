@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binaryXor",
+            "request": "launch",
+            "mainClass": "binaryXor",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
+            "name": "BinaryXor",
+            "request": "launch",
+            "mainClass": "BinaryXor",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "binaryOr",
             "request": "launch",
             "mainClass": "binaryOr",
