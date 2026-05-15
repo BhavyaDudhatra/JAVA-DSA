@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClearIthBit",
+            "request": "launch",
+            "mainClass": "ClearIthBit",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "SetIthBit",
             "request": "launch",
             "mainClass": "SetIthBit",
