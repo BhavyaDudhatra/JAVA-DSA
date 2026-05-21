@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "clearLastIBit",
+            "request": "launch",
+            "mainClass": "clearLastIBit",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "updateIthBit",
             "request": "launch",
             "mainClass": "updateIthBit",
