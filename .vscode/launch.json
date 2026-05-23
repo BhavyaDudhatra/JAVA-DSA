@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "clearRange",
+            "request": "launch",
+            "mainClass": "clearRange",
+            "projectName": "JAVA-DSA_4724e5c8"
+        },
+        {
+            "type": "java",
             "name": "invertedStarPattern",
             "request": "launch",
             "mainClass": "invertedStarPattern",
