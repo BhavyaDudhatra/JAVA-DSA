@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfNumberPowerOfTwo",
+            "request": "launch",
+            "mainClass": "IfNumberPowerOfTwo",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "clearRange",
             "request": "launch",
             "mainClass": "clearRange",
