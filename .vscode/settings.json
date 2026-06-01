@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "22. Bit Manipulation",
         "21. Strings",
         "20. 2D Array",
         "19. Basic Sorting Algorithms",
@@ -12,6 +13,6 @@
         "12. Conditional Statements",
         "11. Operators",
         "10. Variables and Data Types",
-        "22. Bit Manipulation"
+        "23. Object Oriented Programming"
     ]
 }

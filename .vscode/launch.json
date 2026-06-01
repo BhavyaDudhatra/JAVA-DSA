@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "classAndObject",
+            "request": "launch",
+            "mainClass": "classAndObject",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "FastExponentiation",
             "request": "launch",
             "mainClass": "FastExponentiation",
