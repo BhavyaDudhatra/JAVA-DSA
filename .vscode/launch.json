@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
+            "name": "getterSetter",
+            "request": "launch",
+            "mainClass": "getterSetter",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "accessModifier",
             "request": "launch",
             "mainClass": "accessModifier",
