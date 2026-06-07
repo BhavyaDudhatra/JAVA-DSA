@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CopyConstructor",
+            "request": "launch",
+            "mainClass": "CopyConstructor",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "construction",
             "request": "launch",
             "mainClass": "construction",
