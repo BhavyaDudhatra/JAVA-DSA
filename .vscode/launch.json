@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleLevelInheritance",
+            "request": "launch",
+            "mainClass": "SingleLevelInheritance",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "ShallowCopyDemo",
             "request": "launch",
             "mainClass": "ShallowCopyDemo",
