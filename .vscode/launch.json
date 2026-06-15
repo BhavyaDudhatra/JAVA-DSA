@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HybridInheritanceDemo",
+            "request": "launch",
+            "mainClass": "HybridInheritanceDemo",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "HierarchicalInheritanceDemo",
             "request": "launch",
             "mainClass": "HierarchicalInheritanceDemo",
