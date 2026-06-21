@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractionDemo",
+            "request": "launch",
+            "mainClass": "AbstractionDemo",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "OverloadingDemo",
             "request": "launch",
             "mainClass": "OverloadingDemo",
