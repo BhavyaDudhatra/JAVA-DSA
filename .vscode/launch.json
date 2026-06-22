@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractClassDemo",
+            "request": "launch",
+            "mainClass": "AbstractClassDemo",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "AbstractionDemo",
             "request": "launch",
             "mainClass": "AbstractionDemo",
