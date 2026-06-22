@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfaceDemo",
+            "request": "launch",
+            "mainClass": "InterfaceDemo",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "AbstractClassDemo",
             "request": "launch",
             "mainClass": "AbstractClassDemo",
