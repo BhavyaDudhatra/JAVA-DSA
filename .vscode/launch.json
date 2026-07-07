@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialRecursion",
+            "request": "launch",
+            "mainClass": "FactorialRecursion",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "PrintNumbersInDecreasingOrder",
             "request": "launch",
             "mainClass": "PrintNumbersInDecreasingOrder",
