@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckSorted",
+            "request": "launch",
+            "mainClass": "CheckSorted",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNaturalNumbers",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "FactorialRecursion",
             "request": "launch",
             "mainClass": "FactorialRecursion",
