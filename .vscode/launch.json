@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LastOccurrenceRecursion",
+            "request": "launch",
+            "mainClass": "LastOccurrenceRecursion",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
+            "name": "FirstOccurrence",
+            "request": "launch",
+            "mainClass": "FirstOccurrence",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "CheckSorted",
             "request": "launch",
             "mainClass": "CheckSorted",
