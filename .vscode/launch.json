@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerRecursion",
+            "request": "launch",
+            "mainClass": "PowerRecursion",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "LastOccurrenceRecursion",
             "request": "launch",
             "mainClass": "LastOccurrenceRecursion",
