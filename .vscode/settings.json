@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "24. Recursion Basic (Part 1)",
         "23. Object Oriented Programming",
         "22. Bit Manipulation",
         "21. Strings",
@@ -14,6 +15,6 @@
         "12. Conditional Statements",
         "11. Operators",
         "10. Variables and Data Types",
-        "24. Recursion Basic (Part 1)"
+        "25. Recursion Basic (Part 2)"
     ]
 }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TilingProblem",
+            "request": "launch",
+            "mainClass": "TilingProblem",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
+            "name": "PowerOptimized",
+            "request": "launch",
+            "mainClass": "PowerOptimized",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "PowerRecursion",
             "request": "launch",
             "mainClass": "PowerRecursion",
