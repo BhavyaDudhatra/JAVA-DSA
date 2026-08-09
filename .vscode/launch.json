@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryStrings",
+            "request": "launch",
+            "mainClass": "BinaryStrings",
+            "projectName": "JAVA-DSA_9900c81e"
+        },
+        {
+            "type": "java",
             "name": "FriendsPairing",
             "request": "launch",
             "mainClass": "FriendsPairing",

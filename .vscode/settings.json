@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "25. Recursion Basic (Part 2)",
         "24. Recursion Basic (Part 1)",
         "23. Object Oriented Programming",
         "22. Bit Manipulation",
@@ -15,6 +16,6 @@
         "12. Conditional Statements",
         "11. Operators",
         "10. Variables and Data Types",
-        "25. Recursion Basic (Part 2)"
+        "26. Divide and Conquer"
     ]
 }
