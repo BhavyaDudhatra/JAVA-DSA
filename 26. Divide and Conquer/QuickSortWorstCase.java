@@ -1,7 +1,7 @@
 public class QuickSortWorstCase {
 
     // Quick Sort function
-    static void worstQuickSort(int[] arr, int low, int high) {
+    static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
 
             // Divide: partition the array
